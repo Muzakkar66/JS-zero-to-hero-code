@@ -1,13 +1,13 @@
 //Program to add first n natural number
-// let sum = 0
+let sum = 0
 
-// let n = prompt("Enter the value of n: ")
+let n = prompt("Enter the value of n: ")
 
-// for(let i = 0; i< n; i++){
-//     console.log('Here is the value ');
-//     sum += (i + 1)
-// }
-// console.log("Sum of first" + n + "natural number is" + sum);
+for(let i = 0; i< n; i++){
+    console.log('Here is the value ');
+    sum += (i + 1)
+}
+console.log("Sum of first" + n + "natural number is" + sum);
 
 // in loop
 const obje = {
