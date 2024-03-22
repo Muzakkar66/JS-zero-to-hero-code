@@ -21,7 +21,7 @@ for (const result in obje) {
    console.log(result);
 }
 
-//for in loop
+//for of loop
 const object1 = {
     jack: 10,
     loop: 20,
